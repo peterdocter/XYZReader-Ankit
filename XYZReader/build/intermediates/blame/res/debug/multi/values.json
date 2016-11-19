@@ -2459,7 +2459,14 @@
                     "endOffset": 40032
                 },
                 "from": {
-                    "file": "E:\\AndroidStudioProjects\\XYXReader-Ankit\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\AndroidStudioProjects\\XYXReader-Ankit\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 43,
+                        "endOffset": 279
+                    }
                 }
             },
             {
@@ -2567,14 +2574,7 @@
                     "endOffset": 40668
                 },
                 "from": {
-                    "file": "E:\\AndroidStudioProjects\\XYXReader-Ankit\\XYZReader\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 51,
-                        "endOffset": 331
-                    }
+                    "file": "E:\\AndroidStudioProjects\\XYXReader-Ankit\\XYZReader\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
